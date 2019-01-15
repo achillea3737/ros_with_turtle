@@ -1,5 +1,5 @@
 # ros_with_turtle
-Move the turtle with os.
+Move the turtle with Ros.
 
 name:Hichon Kimu  
 ====
